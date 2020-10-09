@@ -1,0 +1,14 @@
+{
+  "name": "objectif",
+  "version": "1.0.0",
+  "description": "Objectif 4 npm",
+  "main": "Script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Aldrick",
+    "email": "aldrickcleret@gmail.cil"
+  },
+  "license": "ISC"
+}
