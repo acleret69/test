@@ -10,5 +10,9 @@
     "name": "Aldrick",
     "email": "aldrickcleret@gmail.cil"
   },
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "boostrap": "^4.0.0",
+    "jquery": "^3.5.1"
+  }
 }
